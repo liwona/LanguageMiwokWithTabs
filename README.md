@@ -1,3 +1,6 @@
+Udacity's course Example
+
+
 Miwok App
 ===================================
 
